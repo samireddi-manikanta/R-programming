@@ -1,0 +1,5 @@
+p=readline(prompt = "enter first value: ")
+x=as.integer(p)
+q=readline(prompt = "enter second value: ")
+y=as.integer(q)
+message("product of",a,b," is: ",x*y)
